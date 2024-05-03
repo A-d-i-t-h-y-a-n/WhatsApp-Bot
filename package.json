@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adithyan R",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "pastebin-ts": "^1.3.0",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
