@@ -1,4 +1,4 @@
-# whatsapp-bot
+# Whatsapp-Bot
 
 ## Setup
 ```js
